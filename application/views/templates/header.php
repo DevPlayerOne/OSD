@@ -3,11 +3,12 @@
 <head>
     <title>
     </title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/storeapp.css">
-    <script src="js/jquery-3.3.1.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="js/myJs.js"></script>
+    <link rel="stylesheet" href="<?php echo base_url('css/bootstrap.css');?>">
+    <link rel="stylesheet" href="<?php echo base_url('css/storeapp.css');?>">
+    <script src="<?php echo base_url('js/jquery-3.3.1.js')?>"></script>
+    <script src="<?php echo base_url('js/bootstrap.js')?>"></script>
+
+    <script src="<?php echo base_url('js/myJs.js')?>"></script> 
 
 </head>
 <body>
