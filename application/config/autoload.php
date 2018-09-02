@@ -58,7 +58,11 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
+<<<<<<< HEAD
 $autoload['libraries'] = array('form_validation');
+=======
+$autoload['libraries'] = array();
+>>>>>>> 7031740d8bff41dfe16070b49704c112e5743804
 
 /*
 | -------------------------------------------------------------------
@@ -89,7 +93,11 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
+<<<<<<< HEAD
 $autoload['helper'] = array('url', 'form');
+=======
+$autoload['helper'] = array();
+>>>>>>> 7031740d8bff41dfe16070b49704c112e5743804
 
 /*
 | -------------------------------------------------------------------
@@ -132,4 +140,8 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
+<<<<<<< HEAD
 $autoload['model'] = array('product_model');
+=======
+$autoload['model'] = array();
+>>>>>>> 7031740d8bff41dfe16070b49704c112e5743804

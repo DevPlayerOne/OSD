@@ -76,9 +76,15 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
+<<<<<<< HEAD
 	'username' => 'caster',
 	'password' => 'TheCasterPl0t',
 	'database' => 'storeapp',
+=======
+	'username' => '',
+	'password' => '',
+	'database' => '',
+>>>>>>> 7031740d8bff41dfe16070b49704c112e5743804
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
