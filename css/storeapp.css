@@ -1,8 +1,12 @@
  body { 
     padding-top: 80px; 
 }
-
-
+.add-product-item{
+    float:right;
+}
+#products-table{
+    margin-top: 5%;
+}
 /* The snackbar - position it at the bottom and in the middle of the screen */
 #snackbar {
     visibility: hidden; /* Hidden by default. Visible on click */
